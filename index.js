@@ -55,4 +55,4 @@ const applyText = (canvas, text) => {
 
 
 
-client.login('NzE2Mzg4NDAyNDc5NzU5Mzgx.Gk0rF8.ONyMFo-v_FIwOYplf1lVIXlT1EvtPTm_dXzXxY')
+client.login('nope')
